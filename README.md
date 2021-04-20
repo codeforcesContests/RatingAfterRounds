@@ -1,1 +1,1 @@
-# Rating after rounds and rating predictions.
+# Rating after Codeforces rounds and rating predictions.
